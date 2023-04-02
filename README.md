@@ -1,1 +1,1 @@
-# sedot-paypal
+# use python 3
