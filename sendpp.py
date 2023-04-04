@@ -48,7 +48,7 @@ data = {
             'recipient_type': 'EMAIL',
             'amount': {
                 'value': value,
-                'currency': 'GBP'
+                'currency': 'USD'
             },
             'note': note,
             'sender_item_id': sender_item_id,
